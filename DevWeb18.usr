@@ -32,7 +32,7 @@ Main=0
 [Interpreters]
 Main=DevWeb
 [Modified Actions]
-Main=0
+Main=1
 [Replayed Actions]
 Main=0
 [TransactionsOrder]
